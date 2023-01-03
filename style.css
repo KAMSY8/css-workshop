@@ -1,0 +1,32 @@
+a{
+text-decoration: none;
+    color: aliceblue;
+    background-color: brown;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+justify-content: center;
+}
+
+.test {
+   
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+  }
+  #box-2 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    visibility: hidden;
+  }
+  .paragraph{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+  }
